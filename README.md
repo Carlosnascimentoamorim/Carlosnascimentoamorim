@@ -1,5 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlosnascimentoamorim&show_icons=true&theme=transparent)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosnascimentoamorim&show_icons=true&theme=transparent)
 
 ## Tecnologia que eu uso no meu dia 
 
